@@ -1,0 +1,19 @@
+{
+  "name": "javascript-explore",
+  "version": "0.0.0",
+  "homepage": "https://github.com/cswaroop/javascript-explore",
+  "authors": [
+    "cswaroop <cswaroop@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore-contrib": "~0.3.0"
+  }
+}
